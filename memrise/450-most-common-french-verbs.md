@@ -120,3 +120,18 @@
 | écouter        | to listen to                    |
 | écrire         | to write                        |
 | être           | to be                           |
+| disparaître    | to disappear                    |
+| battre         | to beat                         |
+| toucher        | to touch                        |
+| apparaître     | to appear                       |
+| souffrir       | to suffer                       |
+| fermer         | to close                        |
+| accepter       | to accept                       |
+| naître         | to be born                      |
+| sauver         | to rescue                       |
+| avancer        | to advance                      |
+| traverser      | to cross                        |
+| se souvenir    | to remember                     |
+| couvrir        | to cover                        |
+| gagner         | to win                          |
+| former         | to form                         |
