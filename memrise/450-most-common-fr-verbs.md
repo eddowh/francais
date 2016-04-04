@@ -1,17 +1,21 @@
 | **français**   | **english**                     |
 |:---------------|:--------------------------------|
+| accepter       | to accept                       |
 | agir           | to act                          |
 | aimer          | to like                         |
 | ajouter        | to add                          |
 | aller          | to go                           |
 | apercevoir     | to catch sight of, to notice    |
+| apparaître     | to appear                       |
 | appeler        | to call                         |
 | apporter       | to bring (something)            |
 | apprendre      | to learn                        |
 | arriver        | to arrive                       |
 | arrêter        | to stop                         |
 | attendre       | to wait                         |
+| avancer        | to advance                      |
 | avoir          | to have                         |
+| battre         | to beat                         |
 | boire          | to drink                        |
 | cacher         | to hide                         |
 | causer         | to cause                        |
@@ -25,6 +29,7 @@
 | continuer      | to continue                     |
 | coucher        | to have sex with                |
 | courir         | to run                          |
+| couvrir        | to cover                        |
 | crier          | to shout                        |
 | croire         | to believe                      |
 | demander       | to ask                          |
@@ -33,6 +38,7 @@
 | devenir        | to become                       |
 | devoir         | to have to                      |
 | dire           | to say                          |
+| disparaître    | to disappear                    |
 | donner         | to give                         |
 | dormir         | to sleep                        |
 | entendre       | to hear                         |
@@ -43,8 +49,11 @@
 | expliquer      | to explain                      |
 | faire          | to do                           |
 | falloir        | to have to                      |
+| fermer         | to close                        |
 | finir          | to finish                       |
+| former         | to form                         |
 | frapper        | to hit                          |
+| gagner         | to win                          |
 | garder         | to keep                         |
 | jeter          | to throw                        |
 | jouer          | to play                         |
@@ -57,6 +66,7 @@
 | monter         | to go up                        |
 | montrer        | to show                         |
 | mourir         | to die                          |
+| naître         | to be born                      |
 | nommer         | to call                         |
 | obtenir        | to get                          |
 | occuper        | to occupy                       |
@@ -97,20 +107,25 @@
 | répéter        | to repeat                       |
 | s'asseoir      | to sit                          |
 | saisir         | to seize                        |
+| sauver         | to rescue                       |
 | savoir         | to know                         |
+| se souvenir    | to remember                     |
 | sembler        | to seem                         |
 | sentir         | to feel                         |
 | serrer         | to tighten                      |
 | servir         | to serve                        |
 | songer         | to daydream, to think, to dream |
 | sortir         | to go out                       |
+| souffrir       | to suffer                       |
 | sourire        | to smile                        |
 | suivre         | to follow                       |
 | tenir          | to hold                         |
 | tirer          | to pull                         |
 | tomber         | to fall                         |
+| toucher        | to touch                        |
 | tourner        | to turn                         |
 | travailler     | to work                         |
+| traverser      | to cross                        |
 | trouver        | to find                         |
 | tuer           | to kill                         |
 | venir          | to come                         |
@@ -120,18 +135,3 @@
 | écouter        | to listen to                    |
 | écrire         | to write                        |
 | être           | to be                           |
-| disparaître    | to disappear                    |
-| battre         | to beat                         |
-| toucher        | to touch                        |
-| apparaître     | to appear                       |
-| souffrir       | to suffer                       |
-| fermer         | to close                        |
-| accepter       | to accept                       |
-| naître         | to be born                      |
-| sauver         | to rescue                       |
-| avancer        | to advance                      |
-| traverser      | to cross                        |
-| se souvenir    | to remember                     |
-| couvrir        | to cover                        |
-| gagner         | to win                          |
-| former         | to form                         |
