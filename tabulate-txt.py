@@ -11,15 +11,29 @@ from tabulate import tabulate
 
 
 FILE_EXT = '.txt'
+END_PUNCTUATION_MARKS = ('.', '!', '?')
+
+
+def is_sentence(text):
+    return True in map(lambda p: text.endswith(p), END_PUNCTUATION_MARKS)
+
+
+def capitalize_if_is_sentence(text):
+    if is_sentence(text):
+        return text[0].upper() + text[1:]
+    else:
+        return text
 
 
 def to_markdown_tables(file, headers, boundary):
     contents = file.readlines()
     fr_en_pairs = tuple([
-        (fr.strip(), en.strip())
-        for fr, en
+        tuple(map(capitalize_if_is_sentence,
+                  [t.strip() for t in fr_en]))
+        for fr_en
         in list(map(lambda l: l[:-1].split(boundary), contents))
     ])
+    fr_en_pairs = sorted(fr_en_pairs, key=lambda k: k[0])
     return tabulate(fr_en_pairs,
                     # bold column names
                     map(lambda h: '**{}**'.format(h), headers),
