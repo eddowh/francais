@@ -37,19 +37,32 @@ def capitalize_if_is_sentence(text):
         return text
 
 
-def to_markdown_tables(file, headers, boundary):
+def to_markdown_tables(file, headers, boundary,
+                       separate_words_and_phrases=False):
     contents = file.readlines()
     fr_en_pairs = tuple([
-        tuple(map(capitalize_if_is_sentence,
-                  [t.strip() for t in fr_en]))
+        tuple(map(capitalize_if_is_sentence,    # capitalize if is sentence
+                  [t.strip() for t in fr_en]))  # strip whitespace
         for fr_en
         in list(map(lambda l: l[:-1].split(boundary), contents))
     ])
     fr_en_pairs = sorted(fr_en_pairs, key=lambda k: k[0])
-    return tabulate(fr_en_pairs,
-                    # bold column names
-                    map(lambda h: '**{}**'.format(h), headers),
-                    tablefmt="pipe")
+    if separate_words_and_phrases:
+        res = (
+            "# Sentences\n\n"
+            + tabulate(filter(lambda x: x[0][0].isupper() or is_sentence(x[0]), fr_en_pairs),
+                       map(lambda h: '**{}**'.format(h), headers),
+                       tablefmt="pipe")
+            + "\n\n# Words & Phrases\n\n"
+            + tabulate(filter(lambda x: not (x[0][0].isupper() or is_sentence(x[0])), fr_en_pairs),
+                       map(lambda h: '**{}**'.format(h), headers),
+                       tablefmt="pipe")
+        )
+    else:
+        res = tabulate(fr_en_pairs,
+                       map(lambda h: '**{}**'.format(h), headers),
+                       tablefmt="pipe")
+    return res
 
 
 def list_all_files(in_path, omit_hidden=True):
@@ -69,9 +82,11 @@ def create_parser():
     """Return command-line parser."""
     parser = argparse.ArgumentParser()
     parser.add_argument("-r", "--recursive", action="store_true",
-                        help="Run recrusively over directories")
+                        help="run recursively over directories")
+    parser.add_argument("--categorize", action="store_true",
+                        help="categorize to words/phrases and sentences")
     parser.add_argument("fd", nargs="*",
-                        help="Name of input file or directory")
+                        help="name of input file or directory")
     return parser
 
 
@@ -120,7 +135,8 @@ def main():
                 to_markdown_tables(
                     open(tf, 'rt'),
                     headers=["Français", "English"],
-                    boundary="=="
+                    boundary="==",
+                    separate_words_and_phrases=args.categorize
                 )
             )
 
