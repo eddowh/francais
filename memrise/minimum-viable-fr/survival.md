@@ -1,4 +1,4 @@
-| **français**        | **english**             |
+| **Français**        | **English**             |
 |:--------------------|:------------------------|
 | Ce n'est pas bon.   | This is not good.       |
 | Combien ça coûte?   | How much does it cost?  |

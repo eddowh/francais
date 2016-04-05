@@ -1,4 +1,4 @@
-| **français**   | **english**                     |
+| **Français**   | **English**                     |
 |:---------------|:--------------------------------|
 | accepter       | to accept                       |
 | agir           | to act                          |

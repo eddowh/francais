@@ -1,4 +1,4 @@
-| **français**                           | **english**                   |
+| **Français**                           | **English**                   |
 |:---------------------------------------|:------------------------------|
 | C'est comment en français?             | What is that in French?       |
 | C'est ok?                              | Is it ok?                     |
