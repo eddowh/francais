@@ -5,6 +5,7 @@ Command line tool to convert text files to markdown tables,
 given a boundary.
 """
 
+from pprint import pprint
 import argparse
 import os
 
@@ -104,9 +105,9 @@ def main():
         else:
             all_files.extend(list_all_files(fd))
     # filter out files without .txt extension
-    dir_path = os.path.commonprefix(all_files)
+    dir_path = os.path.abspath('.')
     all_text_files = tuple([
-        f[len(dir_path):]
+        os.path.relpath(f, dir_path)
         for f
         in filter(lambda x: x.endswith(FILE_EXT),
                   remove_duplicates(all_files))
