@@ -20,6 +20,6 @@ là == there
 merci == thank you
 oui == yes
 où == where
-où est ...? ==  where is...?
+où est {...}? ==  where is {...}?
 pas de quoi == don't mention it
 s'il vous plaît == please

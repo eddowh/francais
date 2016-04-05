@@ -1,0 +1,37 @@
+Je n'aime pas == I don't like
+Je ne veux pas == I don't want (that)
+Je suis Américain == I am an American
+Tu aimes? ==  Do you like?
+c'est comment en français? == What is that in French?
+c'est ok? ==  is it ok?
+c'est possible? ==  is it possible?
+comment tu t'appelles? ==  What is your name? (informal)
+comment? ==  how?
+de quel pays viens-tu? ==  what country are you from?
+es-tu? ==  are you?
+est-il? ==  is it?
+j'aime == I like
+je comprends == I understand
+je m'appelle  {...} == I am called
+je ne comprends pas == I don't understand
+je ne sais pas == I don't know
+je ne suis pas == I am not
+je ne suis pas américain == I am not American
+je sais == i know
+je suis == I am
+je suis français == I am French
+je vais à  {...} == I am going to {...}
+je veux == I want
+n'est pas == is not
+non, ce n'est pas possible == no, it is not possible
+oui, c'est possible == yes, it is possible
+où vas-tu? ==  where are you going?
+parlez plus lentement, s'il vous plaît == Please speak more slowly
+parlez-vous français? ==  do you speak French?
+pas de problème == no problem
+qu'est-ce qui se passe? ==  What's going on?
+qui es-tu? ==  Who are you? (informal)
+tu comprends? ==  You understand? (familiar)
+tu peux {...}? ==  can you {...}?
+tu sais {...}? ==  do you know {...}?
+tu veux? ==  do you want?

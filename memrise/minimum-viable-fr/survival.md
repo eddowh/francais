@@ -6,6 +6,7 @@
 | Je n'ai pas         | I don't have            |
 | Je ne veux pas      | I don't want (that)     |
 | Je t'aime           | I love you              |
+| Où est {...}?       | Where is {...}?         |
 | Salut!              | Hi!                     |
 | anglais             | English                 |
 | au revoir           | goodbye                 |
@@ -22,6 +23,5 @@
 | merci               | thank you               |
 | oui                 | yes                     |
 | où                  | where                   |
-| où est ...?         | where is...?            |
 | pas de quoi         | don't mention it        |
 | s'il vous plaît     | please                  |
