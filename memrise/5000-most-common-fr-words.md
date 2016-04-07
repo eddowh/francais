@@ -1,102 +1,202 @@
-| **Français**   | **English**                                   |
-|:---------------|:----------------------------------------------|
-| ainsi          | thus                                          |
-| aller          | to go                                         |
-| alors          | then, so                                      |
-| après          | after                                         |
-| aucun          | none, either, neither, not any                |
-| aussi          | too, also, as                                 |
-| autre          | other                                         |
-| avant          | before                                        |
-| avec           | with                                          |
-| avoir          | to have                                       |
-| bien           | well                                          |
-| bon            | good                                          |
-| ce             | this, that                                    |
-| cela           | that, it [c.l.]                               |
-| celui          | that, the one, he, him                        |
-| comme          | like, as                                      |
-| comprendre     | to understand                                 |
-| dans           | in, into, from                                |
-| de             | of, from, some, any                           |
-| demander       | to ask for                                    |
-| depuis         | since, for                                    |
-| dernier        | last                                          |
-| deux           | two                                           |
-| devoir         | to have to, owe; (duty)                       |
-| dire           | to say                                        |
-| donner         | to give                                       |
-| dont           | whose, of which, (including)                  |
-| déjà           | already                                       |
-| elle           | she, her                                      |
-| en             | in, by                                        |
-| encore         | again, yet                                    |
-| entre          | between                                       |
-| et             | and                                           |
-| faire          | to do, make                                   |
-| falloir        | to take, require, need                        |
-| grand          | great, big, tall                              |
-| il             | he, it                                        |
-| je             | I                                             |
-| le             | the; him, her, it, them                       |
-| lequel         | which (one), who, whom                        |
-| leur           | them, their, theirs                           |
-| lui            | him, her                                      |
-| mais           | but                                           |
-| me             | me, to me, myself [not "moi"]                 |
-| mettre         | to put, place                                 |
-| moins          | less                                          |
-| mon            | my                                            |
-| même           | same, even, self                              |
-| ne             | not [not "pas", not "non"]                    |
-| non            | no, not [not "pas", not "ne"]                 |
-| notre          | our                                           |
-| nous           | we, us                                        |
-| nouveau        | new                                           |
-| on             | one, we                                       |
-| ou             | or                                            |
-| où             | where                                         |
-| par            | by                                            |
-| pas            | not, n't; (footstep) [not "non", not "ne"]    |
-| passer         | to pass                                       |
-| pendant        | during; (pendant) [not "durant"]              |
-| peu            | little                                        |
-| plus           | more, no more [not "davantage"]               |
-| pour           | for, in order to                              |
-| pouvoir        | can, to be able to                            |
-| premier        | first                                         |
-| prendre        | to take                                       |
-| que            | that, what, who, whom, (which)                |
-| quelque        | some                                          |
-| qui            | who, whom                                     |
-| rendre         | to render, return, yield, give up             |
-| rester         | to stay                                       |
-| sans           | without                                       |
-| savoir         | to know [to have the knowledge]               |
-| se             | oneself, himself, herself, itself, themselves |
-| si             | if, whether                                   |
-| son            | his, her, its; (sound; bran)                  |
-| sur            | on, upon                                      |
-| tout           | all, very                                     |
-| trouver        | to find                                       |
-| très           | very                                          |
-| un             | a, an, one                                    |
-| un an          | year [not "année"]                            |
-| un jour        | day                                           |
-| un monde       | world, people                                 |
-| un monsieur    | mister, sir, gentleman                        |
-| un point       | point; (at all)                               |
-| un temps       | time                                          |
-| une fois       | time, times                                   |
-| une heure      | hour                                          |
-| une part       | share                                         |
-| une personne   | person, people, anybody, anyone, nobody       |
-| une raison     | reason                                        |
-| une suite      | result, follow-up, rest                       |
-| venir          | to come                                       |
-| voir           | to see                                        |
-| vouloir        | to want                                       |
-| vous           | you [formal]                                  |
-| y              | there [not "là"]                              |
-| à              | to, at, in [not "chez"]                       |
-| être           | to be; (being)                                |
+| **Français**    | **English**                                       |
+|:----------------|:--------------------------------------------------|
+| ainsi           | thus                                              |
+| aller           | to go                                             |
+| alors           | then, so                                          |
+| appeler         | to call                                           |
+| après           | after                                             |
+| arriver         | to arrive, happen                                 |
+| attendre        | to wait                                           |
+| aucun           | none, either, neither, not any                    |
+| aussi           | too, also, as                                     |
+| autre           | other                                             |
+| avant           | before                                            |
+| avec            | with                                              |
+| avoir           | to have                                           |
+| beaucoup        | much, a lot of, many                              |
+| bien            | well                                              |
+| bon             | good                                              |
+| car             | because; (bus)                                    |
+| ce              | this, that                                        |
+| cela            | that, it [c.l.]                                   |
+| celui           | that, the one, he, him                            |
+| certain         | certain, sure                                     |
+| chaque          | each                                              |
+| comme           | like, as                                          |
+| commencer       | to begin, start                                   |
+| comprendre      | to understand                                     |
+| compter         | to count                                          |
+| connaître       | to know [e.g. someone, a place]                   |
+| continuer       | to continue                                       |
+| contre          | against                                           |
+| croire          | to believe                                        |
+| dans            | in, into, from                                    |
+| de              | of, from, some, any                               |
+| demander        | to ask for                                        |
+| depuis          | since, for                                        |
+| dernier         | last                                              |
+| deux            | two                                               |
+| devant          | in front, ahead                                   |
+| devenir         | to become                                         |
+| devoir          | to have to, owe; (duty)                           |
+| dire            | to say                                            |
+| donc            | so, then, therefore, thus [not "alors" / "ainsi"] |
+| donner          | to give                                           |
+| dont            | whose, of which, (including)                      |
+| dès             | from, as soon                                     |
+| décider         | to decide                                         |
+| déjà            | already                                           |
+| elle            | she, her                                          |
+| en              | in, by                                            |
+| encore          | again, yet                                        |
+| ensemble        | together                                          |
+| entendre        | to hear                                           |
+| entre           | between                                           |
+| et              | and                                               |
+| eux             | them                                              |
+| faire           | to do, make                                       |
+| falloir         | to take, require, need                            |
+| fort            | strong                                            |
+| grand           | great, big, tall                                  |
+| général         | general                                           |
+| ici             | here                                              |
+| il              | he, it                                            |
+| jamais          | never                                             |
+| je              | I                                                 |
+| jeune           | young                                             |
+| jusque          | to, up to, until                                  |
+| laisser         | to leave [not "partir" / "quitter"]               |
+| le              | the; him, her, it, them                           |
+| lequel          | which (one), who, whom                            |
+| leur            | them, their, theirs                               |
+| lui             | him, her                                          |
+| là              | there, here                                       |
+| maintenant      | now                                               |
+| mais            | but                                               |
+| me              | me, to me, myself [not "moi"]                     |
+| meilleur        | better, best                                      |
+| mettre          | to put, place                                     |
+| moi             | me                                                |
+| moins           | less                                              |
+| mon             | my                                                |
+| montrer         | to show                                           |
+| même            | same, even, self                                  |
+| ne              | not [not "pas", not "non"]                        |
+| non             | no, not [not "pas", not "ne"]                     |
+| notre           | our                                               |
+| nous            | we, us                                            |
+| nouveau         | new                                               |
+| occuper         | to occupy                                         |
+| on              | one, we                                           |
+| ou              | or                                                |
+| où              | where                                             |
+| par             | by                                                |
+| parler          | to speak                                          |
+| partir          | to leave [not "laisser" / "quitter"]              |
+| pas             | not, n't; (footstep) [not "non", not "ne"]        |
+| passer          | to pass                                           |
+| pendant         | during; (pendant) [not "durant"]                  |
+| penser          | to think                                          |
+| permettre       | to allow, permit                                  |
+| petit           | small, little                                     |
+| peu             | little                                            |
+| peut-être       | perhaps, maybe                                    |
+| plus            | more, no more [not "davantage"]                   |
+| porter          | to wear, carry                                    |
+| possible        | possible                                          |
+| pour            | for, in order to                                  |
+| pourquoi        | why                                               |
+| pouvoir         | can, to be able to                                |
+| premier         | first                                             |
+| prendre         | to take                                           |
+| quand           | when                                              |
+| que             | that, what, who, whom, (which)                    |
+| quel            | what (a), which                                   |
+| quelque         | some                                              |
+| qui             | who, whom                                         |
+| recevoir        | to receive                                        |
+| remettre        | to deliver, replace, set, put                     |
+| rendre          | to render, return, yield, give up                 |
+| rester          | to stay                                           |
+| revenir         | to come back                                      |
+| rien            | nothing                                           |
+| répondre        | to answer                                         |
+| sans            | without                                           |
+| savoir          | to know [to have the knowledge]                   |
+| se              | oneself, himself, herself, itself, themselves     |
+| sembler         | to seem                                           |
+| servir          | to serve                                          |
+| seul            | alone, only                                       |
+| seulement       | only                                              |
+| si              | if, whether                                       |
+| soit            | either...or [1 word]                              |
+| son             | his, her, its; (sound; bran)                      |
+| sous            | under                                             |
+| suivre          | to follow                                         |
+| sur             | on, upon                                          |
+| tant            | so much, so many [not "autant"]                   |
+| tel             | such                                              |
+| tenir           | to hold                                           |
+| toujours        | always                                            |
+| tout            | all, very                                         |
+| trois           | three                                             |
+| trop            | too much, too many                                |
+| trouver         | to find                                           |
+| très            | very                                              |
+| tu              | you [informal, not "toi"]                         |
+| un              | a, an, one                                        |
+| un an           | year [not "année"]                                |
+| un besoin       | need                                              |
+| un cas          | case                                              |
+| un cours        | course                                            |
+| un côté         | side [not "bord"]                                 |
+| un droit        | right, prerogative, (straight)                    |
+| un effet        | effect                                            |
+| un fait         | (done), fact                                      |
+| un gouvernement | government                                        |
+| un groupe       | group                                             |
+| un homme        | man                                               |
+| un jour         | day                                               |
+| un lieu         | place                                             |
+| un mois         | month                                             |
+| un moment       | moment                                            |
+| un monde        | world, people                                     |
+| un monsieur     | mister, sir, gentleman                            |
+| un moyen        | means, way; medium                                |
+| un nom          | name                                              |
+| un ordre        | order                                             |
+| un pays         | country                                           |
+| un plan         | plan, map, (flat)                                 |
+| un point        | point; (at all)                                   |
+| un problème     | problem                                           |
+| un rapport      | relationship, report                              |
+| un temps        | time                                              |
+| un travail      | work [not "ouvrage"]                              |
+| un/une enfant   | child                                             |
+| une affaire     | business, matter                                  |
+| une année       | year [not "an"]                                   |
+| une cause       | cause                                             |
+| une chose       | thing                                             |
+| une famille     | family                                            |
+| une femme       | woman, wife                                       |
+| une fin         | end; (gist; clever person; thin, fine)            |
+| une fois        | time, times                                       |
+| une heure       | hour                                              |
+| une part        | share                                             |
+| une partie      | part                                              |
+| une personne    | person, people, anybody, anyone, nobody           |
+| une place       | room, space, square, place                        |
+| une politique   | politics; (political)                             |
+| une question    | question                                          |
+| une raison      | reason                                            |
+| une suite       | result, follow-up, rest                           |
+| une vie         | life                                              |
+| une vue         | view                                              |
+| venir           | to come                                           |
+| vers            | toward; (verse)                                   |
+| voir            | to see                                            |
+| vouloir         | to want                                           |
+| vous            | you [formal]                                      |
+| y               | there [not "là"]                                  |
+| à               | to, at, in [not "chez"]                           |
+| être            | to be; (being)                                    |
