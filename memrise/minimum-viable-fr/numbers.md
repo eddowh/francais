@@ -1,0 +1,33 @@
+| **Français**     | **English**   |
+|:-----------------|:--------------|
+| cent             | hundred       |
+| cinq             | five          |
+| cinquante        | fifty         |
+| deux             | two           |
+| dix              | ten           |
+| dix-huit         | eighteen      |
+| dix-neuf         | nineteen      |
+| dix-sept         | seventeen     |
+| douze            | twelve        |
+| huit             | eight         |
+| mille            | one thousand  |
+| million          | million       |
+| neuf             | nine          |
+| onze             | eleven        |
+| quarante         | forty         |
+| quatorze         | fourteen      |
+| quatre           | four          |
+| quatre-vingt     | eighty        |
+| quatre-vingt-dix | ninety        |
+| quinze           | fifteen       |
+| seize            | sixteen       |
+| sept             | seven         |
+| six              | six           |
+| soixante         | sixty         |
+| soixante-dix     | seventy       |
+| treize           | thirteen      |
+| trente           | thirty        |
+| trois            | three         |
+| un               | one           |
+| vingt            | twenty        |
+| zéro             | zero          |
