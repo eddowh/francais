@@ -49,11 +49,11 @@ def to_markdown_tables(file, headers, boundary,
     fr_en_pairs = sorted(fr_en_pairs, key=lambda k: k[0])
     if separate_words_and_phrases:
         res = (
-            "# Sentences\n\n"
+            "## Phrases\n\n"
             + tabulate(filter(lambda x: x[0][0].isupper() or is_sentence(x[0]), fr_en_pairs),
                        map(lambda h: '**{}**'.format(h), headers),
                        tablefmt="pipe")
-            + "\n\n# Words & Phrases\n\n"
+            + "\n\n## Vocabulary\n\n"
             + tabulate(filter(lambda x: not (x[0][0].isupper() or is_sentence(x[0])), fr_en_pairs),
                        map(lambda h: '**{}**'.format(h), headers),
                        tablefmt="pipe")

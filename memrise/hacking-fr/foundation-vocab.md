@@ -1,0 +1,31 @@
+| **Français**       | **English**           |
+|:-------------------|:----------------------|
+| ce                 | this                  |
+| comment            | how                   |
+| est-ce que tu peux | Can you?              |
+| grand              | big, large, tall      |
+| ici                | here                  |
+| j'ai               | I have                |
+| j'ai besoin de     | I need                |
+| j'aime             | I like                |
+| je comprends       | I understand          |
+| je peux            | I can                 |
+| je sais            | I know                |
+| je suis            | I am                  |
+| je vais            | I go                  |
+| la bière           | beer                  |
+| le café            | coffee                |
+| le secours         | help, assistance, aid |
+| le thé             | tea                   |
+| lequel             | which                 |
+| là                 | there                 |
+| mauvais            | bad                   |
+| où                 | where                 |
+| petit              | small, short          |
+| puis-je            | Can I?                |
+| quand              | when                  |
+| qui                | who                   |
+| quoi               | what                  |
+| très               | very                  |
+| un peu             | a little bit          |
+| ça                 | that                  |
