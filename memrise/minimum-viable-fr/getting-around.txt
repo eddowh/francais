@@ -1,0 +1,30 @@
+après == after
+arrêtez ici == stop here
+aujourd'hui == today
+avant == before
+demain == tomorrow
+en avion == by plane
+en retard == late
+en train == by train
+en voiture == by car
+hier == yesterday
+l'aéroport == airport
+la gare == train station
+le matin == morning
+le taxi == taxi
+le vol == flight
+maintenant == now
+on arrive == one arrives
+on part == one leaves
+pas encore arrivé == still hasn't arrived
+plus tard == later
+quand? ==  when?
+tournez à droite == turn right
+tournez à gauche == turn left
+tout droit == straight ahead
+une heure == an hour
+une minute == one minute
+À deux heures == at 2 o'clock
+à pied == on foot
+à quelle heure? ==  at what time?
+à vélo == by bike
