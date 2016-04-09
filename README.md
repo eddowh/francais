@@ -2,6 +2,7 @@
 
 ## Memrise
 
+- [Common French Phrases](./memrise/common-fr-phrases/common-fr-phrases.md)
 - [Hacking French](./memrise/hacking-fr/hacking-fr.md)
 - [Minimum Viable French (MVF)](./memrise/minimum-viable-fr/minimum-viable-fr.md)
 - [The 450 Most Common French Verbs](./memrise/450-most-common-fr-verbs.md)

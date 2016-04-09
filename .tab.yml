@@ -6,6 +6,10 @@ memrise:
     categorize: null
     exclude: null 
 
+memrise/common-fr-phrases:
+    categorize: null
+    exclude: null
+
 memrise/hacking-fr:
     categorize: [at-the-market]
     exclude: null
