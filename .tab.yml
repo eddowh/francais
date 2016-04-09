@@ -6,10 +6,11 @@ memrise:
     categorize: null
     exclude: null 
 
+memrise/hacking-fr:
+    categorize: [at-the-market]
+    exclude: null
+
 memrise/minimum-viable-fr:
     categorize: null
     exclude: null
 
-memrise/hacking-fr:
-    categorize: [at-the-market]
-    exclude: null

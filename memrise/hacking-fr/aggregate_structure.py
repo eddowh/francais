@@ -1,9 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
 import os
+import sys
+
+from pathlib import Path
+
+# import from directory
+sys.path.insert(1, os.path.abspath(str(Path(__file__).parents[2])))
+from utils.aggregate import *
 
 FOLDER = os.path.dirname(os.path.realpath(__file__))
+FILENAME = os.path.basename(FOLDER)  # same as folder name
 
 LEVELS = (
     {
@@ -30,26 +39,8 @@ LEVELS = (
 
 
 def main():
-
-    # aggregate everything
-    content = [
-        "# {title}\n\n{body}\n\n".format(
-            title=level['title'],
-            body=open(
-                os.path.join(FOLDER, level['filename'] + '.md'), 'rt'
-            ).read()
-        )
-        for level in LEVELS
-    ]
-    content = "".join(content)
-
-    # remove the two blank lines at the end
-    content = content[:-2]
-
-    # put everything into a file
-    with open(os.path.join(FOLDER, 'hacking-fr.md'), 'wt') as outfile:
-        outfile.write(content)
-
+    with open(os.path.join(FOLDER, FILENAME + '.md'), 'wt') as outfile:
+        outfile.write(aggregate_md_files(FOLDER, LEVELS))
     return
 
 if __name__ == '__main__':
