@@ -6,7 +6,8 @@ from glob import glob
 import os
 import yaml
 
-SCRIPT = 'tabulate_txt.py'
+TABULATE_SCRIPT = 'tabulate_txt.py'
+AGGREGATE_SCRIPT = 'aggregate_structure.py'
 CONFIG_FILE = '.tab.yml'
 CONFIG = yaml.load(open(CONFIG_FILE).read())
 
@@ -37,18 +38,24 @@ def main():
         # commands
         if all_files:
             command = "python {script} {input}".format(
-                script=SCRIPT,
+                script=TABULATE_SCRIPT,
                 input=" ".join(all_files)
             )
             os.popen(command)
         if to_be_categorized:
             command = "python {script} {args} {input}".format(
-                script=SCRIPT,
+                script=TABULATE_SCRIPT,
                 args="--categorize",
                 input=" ".join(to_be_categorized)
             )
             os.popen(command)
 
+        # nested folder with subsections
+        if '/' in folder:
+            command = "python {script}".format(
+                script=os.path.join(folder, AGGREGATE_SCRIPT)
+            )
+            os.popen(command)
 
 if __name__ == '__main__':
     main()
