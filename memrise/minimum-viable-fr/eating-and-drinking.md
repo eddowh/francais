@@ -1,0 +1,30 @@
+| **Français**                 | **English**                  |
+|:-----------------------------|:-----------------------------|
+| C'est dégoûtant!             | it's disgusting              |
+| C'est délicieux!             | it's delicious               |
+| J'ai faim                    | I'm hungry                   |
+| J'ai soif                    | I'm thirsty                  |
+| Je suis végétarien           | I am vegetarian              |
+| L'addition, s'il vous plaît! | Can I have the bill, please? |
+| On a choisi                  | we have made up our minds    |
+| Quel est le plat du jour?    | What is the dish of the day? |
+| Une bouteille d'eau minérale | A bottle of mineral water    |
+| boire                        | to drink                     |
+| des légumes                  | vegetables                   |
+| du riz                       | rice                         |
+| goûter                       | to taste                     |
+| l'assiette                   | plate                        |
+| l'entrée                     | starter                      |
+| la carte                     | menu                         |
+| la cuillère                  | spoon                        |
+| la fourchette                | fork                         |
+| la viande                    | meat                         |
+| le couteau                   | knife                        |
+| le pain                      | bread                        |
+| le plat                      | dish                         |
+| le restaurant                | restaurant                   |
+| le serveur                   | waiter                       |
+| le verre                     | glass                        |
+| manger                       | to eat                       |
+| steak frites                 | steak and chips              |
+| un morceau de …              | A piece of...                |
