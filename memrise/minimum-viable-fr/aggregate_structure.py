@@ -39,6 +39,10 @@ LEVELS = (
         "title": "Eating and Drinking",
         "filename": "eating-and-drinking",
     },
+    {
+        "title": "Family and Work",
+        "filename": "family-and-work",
+    },
 )
 
 
