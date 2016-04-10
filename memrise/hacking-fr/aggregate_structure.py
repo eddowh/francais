@@ -35,6 +35,10 @@ LEVELS = (
         "title": "Getting Around",
         "filename": "getting-around",
     },
+    {
+        "title": "At the Restaurant",
+        "filename": "at-the-restaurant",
+    },
 )
 
 

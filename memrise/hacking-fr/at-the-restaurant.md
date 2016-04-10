@@ -1,0 +1,18 @@
+| **Français**                        | **English**                        |
+|:------------------------------------|:-----------------------------------|
+| Je voudrais manger.                 | I would like to eat.               |
+| Voulez-vous quelque chose à boire?  | Would you like something to drink? |
+| Voulez-vous quelque chose à manger? | Would you like something to eat?   |
+| bon appétit                         | enjoy your food                    |
+| c'est délicieux                     | it's delicious                     |
+| l'addition                          | the bill                           |
+| l'agneau                            | lamb                               |
+| l'eau                               | water                              |
+| le boeuf                            | beef                               |
+| le légume                           | vegetable                          |
+| le poisson                          | fish                               |
+| le porc                             | pork                               |
+| un croque-monsieur                  | a toasted cheese and ham sandwich  |
+| un verre                            | a glass                            |
+| un verre d'eau                      | a glass of water                   |
+| végétarien                          | vegetarian                         |
