@@ -41,21 +41,24 @@ def main():
                 script=TABULATE_SCRIPT,
                 input=" ".join(all_files)
             )
-            os.popen(command)
+            tabulate_exec = os.popen(command)
+            tabulate_exec.close()
         if to_be_categorized:
             command = "python {script} {args} {input}".format(
                 script=TABULATE_SCRIPT,
                 args="--categorize",
                 input=" ".join(to_be_categorized)
             )
-            os.popen(command)
+            tabulate_cat_exec = os.popen(command)
+            tabulate_cat_exec.close()
 
         # nested folder with subsections
         if '/' in folder:
             command = "python {script}".format(
                 script=os.path.join(folder, AGGREGATE_SCRIPT)
             )
-            os.popen(command)
+            aggregate_md_exec = os.popen(command)
+            aggregate_md_exec.close()
 
 if __name__ == '__main__':
     main()
