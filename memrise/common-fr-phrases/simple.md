@@ -44,4 +44,4 @@
 | Que veux-tu ?               | What do you want? (informal)                 |
 | Tu connais le poulet?       | You know chicken?                            |
 | Tu dois m'écouter           | You must listen to me (informal)             |
-| Tu vas y aller              | you are going to go there (informal)         |
+| Tu vas y aller              | You are going to go there (informal)         |
