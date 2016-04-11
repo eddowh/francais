@@ -266,3 +266,65 @@
 | tu             | you (singular, informal)   |
 | votre          | your (plural or formal)    |
 | vous           | you (formal or plural)     |
+
+# Shopping
+
+| **Français**                       | **English**              |
+|:-----------------------------------|:-------------------------|
+| Ce n'est pas cher                  | it isn't expensive       |
+| Comme ça                           | Like this                |
+| Est-ce que je peux demander?       | Can I ask?               |
+| Je veux seulement regarder.        | I am just looking        |
+| Je voudrais acheter                | I'd like to buy          |
+| Qu'est-ce que c'est?               | What is it?              |
+| Trop cher!                         | Too expensive!           |
+| Un meilleur prix, s'il vous plaît? | Can you make it cheaper? |
+| au marché                          | at the market            |
+| au supermarché                     | at the supermarket       |
+| bon marché                         | cheap                    |
+| grand                              | big                      |
+| la chose                           | thing                    |
+| le magasin                         | shop, store              |
+| pardon                             | sorry (excuse)           |
+| petit                              | small                    |
+
+# When Things Go Wrong
+
+| **Français**                | **English**               |
+|:----------------------------|:--------------------------|
+| Est-ce que tu peux m'aider? | Can you help me?          |
+| Est-il fixé?                | Is it fixed?              |
+| c'est très grave            | it is very serious        |
+| cassé                       | broken                    |
+| dormir                      | to sleep                  |
+| il faut                     | it is necessary, you must |
+| j'ai besoin de              | i need                    |
+| je suis malade              | I am unwell               |
+| l'air conditionné           | air conditioning          |
+| la pharmacie                | the chemist               |
+| le chauffage                | heating                   |
+| reposer                     | to rest                   |
+| trop chaud                  | too hot                   |
+| trop froid                  | too cold                  |
+| trop tard                   | too late                  |
+| vite                        | fast                      |
+
+# Accomodation
+
+| **Français**                      | **English**                |
+|:----------------------------------|:---------------------------|
+| Bonne nuit!                       | Good night!                |
+| Combien de personnes?             | how many people            |
+| Deux personnes.                   | two people                 |
+| Je voudrais réserver une chambre. | I'd like to reserve a room |
+| Pour combien de nuits?            | for how many nights        |
+| Si on allait prendre un pot?      | Let's have a drink!        |
+| Une chambre                       | A bedroom                  |
+| copain                            | friend                     |
+| de la bière                       | (some) beer                |
+| du vin                            | (some) wine                |
+| l'hôtel                           | hotel                      |
+| la salle de bain                  | bathroom                   |
+| le jus de fruit                   | fruit juice                |
+| payer                             | to pay                     |
+| une nuit                          | a night                    |

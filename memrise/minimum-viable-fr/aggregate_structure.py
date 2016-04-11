@@ -47,6 +47,18 @@ LEVELS = (
         "title": "Boring but Necessary",
         "filename": "boring-but-necessary",
     },
+    {
+        "title": "Shopping",
+        "filename": "shopping",
+    },
+    {
+        "title": "When Things Go Wrong",
+        "filename": "when-things-go-wrong",
+    },
+    {
+        "title": "Accomodation",
+        "filename": "accomodation",
+    },
 )
 
 
