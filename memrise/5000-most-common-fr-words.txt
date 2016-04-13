@@ -1,3 +1,6 @@
+accepter == to accept
+agir == to act
+aimer == to like, love
 ainsi == thus
 aller == to go
 alors == then, so
@@ -6,6 +9,7 @@ après == after
 arriver == to arrive, happen
 attendre == to wait
 aucun == none, either, neither, not any
+aujourd'hui == today
 aussi == too, also, as
 autre == other
 avant == before
@@ -19,12 +23,19 @@ ce == this, that
 cela == that, it [c.l.]
 celui == that, the one, he, him
 certain == certain, sure
+changer == to change
 chaque == each
+chez == at, with
+choisir == to choose
+ci == this one, here [2 letters]
+cinq == five
 comme == like, as
 commencer == to begin, start
+comment == how
 comprendre == to understand
 compter == to count
 connaître == to know [e.g. someone, a place]
+considérer == to consider
 continuer == to continue
 contre == against
 croire == to believe
@@ -33,10 +44,12 @@ de == of, from, some, any
 demander == to ask for
 depuis == since, for
 dernier == last
+des gens == people
 deux == two
 devant == in front, ahead
 devenir == to become
 devoir == to have to, owe; (duty)
+difficile == difficult
 dire == to say
 donc == so, then, therefore, thus [not "alors" / "ainsi"]
 donner == to give
@@ -48,45 +61,66 @@ elle == she, her
 en == in, by
 encore == again, yet
 ensemble == together
+ensuite == next
 entendre == to hear
 entre == between
 et == and
 eux == them
+exister == to exist
+expliquer == to explain
 faire == to do, make
 falloir == to take, require, need
 fort == strong
+français == French
+gagner == to win, earn
 grand == great, big, tall
 général == general
+haut == top, high
 ici == here
 il == he, it
+important == important
+international == international
 jamais == never
 je == I
 jeune == young
+jouer == to play
 jusque == to, up to, until
 laisser == to leave [not "partir" / "quitter"]
 le == the; him, her, it, them
 lequel == which (one), who, whom
 leur == them, their, theirs
+lire == to read; (lira)
+long == long, lengthy
+lorsque == when
 lui == him, her
 là == there, here
 maintenant == now
 mais == but
+mal == bad
+mauvais == bad, wrong
 me == me, to me, myself [not "moi"]
 meilleur == better, best
 mettre == to put, place
+mieux == better
 moi == me
 moins == less
 mon == my
 montrer == to show
+mort == dead; (death)
 même == same, even, self
+national == national
 ne == not [not "pas", not "non"]
+ni == nor
 non == no, not [not "pas", not "ne"]
 notre == our
 nous == we, us
 nouveau == new
 occuper == to occupy
+offrir == to offer
 on == one, we
 ou == or
+oui == yes
+ouvrir == to open
 où == where
 par == by
 parler == to speak
@@ -95,48 +129,74 @@ pas == not, n't; (footstep) [not "non", not "ne"]
 passer == to pass
 pendant == during; (pendant) [not "durant"]
 penser == to think
+perdre == to lose
 permettre == to allow, permit
 petit == small, little
 peu == little
 peut-être == perhaps, maybe
 plus == more, no more [not "davantage"]
+plusieurs == several
+plutôt == rather
 porter == to wear, carry
+poser == to put, pose, ask
 possible == possible
 pour == for, in order to
 pourquoi == why
 pouvoir == can, to be able to
 premier == first
 prendre == to take
+propre == clean, proper
+près == near, nearby, close by
+présent == present
+présenter == to present
+puis == then, so
 quand == when
+quant == as for
+quatre == four
 que == that, what, who, whom, (which)
 quel == what (a), which
 quelque == some
 qui == who, whom
+quoi == what
+rappeler == to recall, call back
 recevoir == to receive
+reconnaître == to recognize
+refuser == to refuse
 remettre == to deliver, replace, set, put
 rendre == to render, return, yield, give up
+représenter == to represent
 rester == to stay
+retrouver == to find, recall
 revenir == to come back
 rien == nothing
 répondre == to answer
+réussir == to succeed
 sans == without
 savoir == to know [to have the knowledge]
 se == oneself, himself, herself, itself, themselves
+selon == according to
 sembler == to seem
 servir == to serve
 seul == alone, only
 seulement == only
 si == if, whether
+simple == simple
 soit == either...or [1 word]
 son == his, her, its; (sound; bran)
 sous == under
+souvent == often
 suivre == to follow
 sur == on, upon
+surtout == especially, above all
+sûr == sure
 tant == so much, so many [not "autant"]
+te == you, to you, from you [informal]
 tel == such
 tenir == to hold
+toucher == to touch
 toujours == always
 tout == all, very
+travailler == to work
 trois == three
 trop == too much, too many
 trouver == to find
@@ -145,41 +205,71 @@ tu == you [informal, not "toi"]
 un == a, an, one
 un an == year [not "année"]
 un besoin == need
+un bureau == office, desk
 un cas == case
+un compte == account, count
+un coup == coup, blow, knock, stroke
 un cours == course
 un côté == side [not "bord"]
 un droit == right, prerogative, (straight)
 un effet == effect
+un exemple == example
 un fait == (done), fact
 un gouvernement == government
 un groupe == group
 un homme == man
+un humain == human
+un jeu == game
 un jour == day
 un lieu == place
+un marché == market
 un mois == month
 un moment == moment
 un monde == world, people
 un monsieur == mister, sir, gentleman
+un mot == word
 un moyen == means, way; medium
 un nom == name
+un nombre == number
+un or == gold; (hence, thus)
 un ordre == order
 un pays == country
 un plan == plan, map, (flat)
 un point == point; (at all)
 un problème == problem
+un projet == project
+un président == president
+un public == public, audience
 un rapport == relationship, report
+un sens == sense, meaning
+un service == service
+un système == system
 un temps == time
+un train == train
 un travail == work [not "ouvrage"]
 un/une enfant == child
+un/une ministre == minister
 une affaire == business, matter
 une année == year [not "an"]
 une cause == cause
 une chose == thing
+une condition == condition
+une entreprise == enterprise, business
+une face == front, side, face
 une famille == family
+une façon == way, manner, fashion
 une femme == woman, wife
 une fin == end; (gist; clever person; thin, fine)
 une fois == time, times
+une force == force
+une grâce == thanks, grace, favour
+une guerre == war
 une heure == hour
+une histoire == history, story
+une idée == idea
+une loi == law
+une madame == madam, lady
+une mesure == measure
 une part == share
 une partie == part
 une personne == person, people, anybody, anyone, nobody
@@ -187,14 +277,24 @@ une place == room, space, square, place
 une politique == politics; (political)
 une question == question
 une raison == reason
+une région == region
+une semaine == week
+une situation == situation
+une société == society
 une suite == result, follow-up, rest
 une vie == life
+une ville == city
 une vue == view
 venir == to come
 vers == toward; (verse)
+vivre == to live
 voir == to see
+votre == your [formal]
 vouloir == to want
 vous == you [formal]
+vrai == true [not "véritable" / "réel"]
 y == there [not "là"]
 à == to, at, in [not "chez"]
+économique == economic, economical
+également == also, too, as well, equally
 être == to be; (being)
