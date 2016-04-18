@@ -418,3 +418,33 @@ vêtir == to clothe
 étudier == to study
 éviter == to avoid
 être == to be
+divorcer == to get divorced
+corriger == to correct
+célébrer == to celebrate
+bavarder == to chat
+avoir besoin de == to need
+augmenter == to increase
+blâmer == to blame
+avoir raison == to be right
+conseiller == to advise
+consommer == to consume
+dénoncer == to denounce
+échouer == to fail
+imprimer == to print
+encourager == to encourage
+geler == to freeze
+goûter == to taste
+guérir == to cure
+informer == to inform
+insister == to insist
+ralentir == to slow down
+redire == to repeat
+détester == to hate
+négocier == to negotiate
+enseigner == to teach
+détenir == to hold, to detain
+attraper == to catch
+contrôler == to control
+convaincre == to convince
+mesurer == to measure
+mouiller == to get something wet
