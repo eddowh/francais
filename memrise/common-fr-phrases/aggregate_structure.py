@@ -23,6 +23,10 @@ LEVELS = (
         "title": "Most Important",
         "filename": "most-important",
     },
+    {
+        "title": "Short",
+        "filename": "short",
+    },
 )
 
 
