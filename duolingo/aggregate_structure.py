@@ -17,27 +17,27 @@ FILENAME = os.path.basename(FOLDER)  # same as folder name
 LEVELS = (
     {
         "title": "Basics",
-        "filename": "basics",
+        "filename": "levels/basics",
     },
     {
         "title": "Phrases",
-        "filename": "phrases",
+        "filename": "levels/phrases",
     },
     {
         "title": "Food",
-        "filename": "food",
+        "filename": "levels/food",
     },
     {
         "title": "Animals",
-        "filename": "animals",
+        "filename": "levels/animals",
     },
     {
         "title": "Adjectives",
-        "filename": "adjectives",
+        "filename": "levels/adjectives",
     },
     {
         "title": "Plurals",
-        "filename": "plurals",
+        "filename": "levels/plurals",
     },
 )
 
