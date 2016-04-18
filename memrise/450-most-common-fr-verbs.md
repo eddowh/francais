@@ -1,6 +1,8 @@
 | **Français**   | **English**                                                                                       |
 |:---------------|:--------------------------------------------------------------------------------------------------|
 | abandonner     | to give up (not renoncer)                                                                         |
+| abattre        | to slaughter                                                                                      |
+| abolir         | to abolish                                                                                        |
 | accepter       | to accept                                                                                         |
 | accomplir      | to fulfil, to accomplish                                                                          |
 | accorder       | to grant                                                                                          |
@@ -8,8 +10,11 @@
 | acheter        | to buy                                                                                            |
 | achever        | to complete                                                                                       |
 | admettre       | to admit                                                                                          |
+| admirer        | to admire                                                                                         |
+| adorer         | to adore                                                                                          |
 | adresser       | to address                                                                                        |
 | affirmer       | to affirm                                                                                         |
+| agacer         | to annoy                                                                                          |
 | agir           | to act                                                                                            |
 | agiter         | to shake                                                                                          |
 | aider          | to help                                                                                           |
@@ -19,6 +24,7 @@
 | allumer        | to turn on                                                                                        |
 | amener         | to bring (someone)                                                                                |
 | amuser         | to amuse                                                                                          |
+| animer         | to bring life to                                                                                  |
 | annoncer       | to announce                                                                                       |
 | apercevoir     | to catch sight of, to notice                                                                      |
 | apparaître     | to appear                                                                                         |
@@ -48,6 +54,7 @@
 | brûler         | to burn                                                                                           |
 | cacher         | to hide                                                                                           |
 | calmer         | to calm down                                                                                      |
+| casser         | to break                                                                                          |
 | causer         | to cause                                                                                          |
 | cesser         | to cease                                                                                          |
 | changer        | to change                                                                                         |
@@ -58,6 +65,7 @@
 | choisir        | to choose                                                                                         |
 | commander      | to order, to command, to commission                                                               |
 | commencer      | to begin                                                                                          |
+| comparer       | to compare                                                                                        |
 | composer       | to compose                                                                                        |
 | comprendre     | to understand                                                                                     |
 | compter        | to count                                                                                          |
@@ -66,9 +74,13 @@
 | conduire       | to drive                                                                                          |
 | confier        | to entrust                                                                                        |
 | connaître      | to know                                                                                           |
+| conquérir      | to conquer                                                                                        |
+| consentir      | to consent                                                                                        |
 | considérer     | to consider                                                                                       |
 | construire     | to build                                                                                          |
+| consulter      | to consult                                                                                        |
 | contenir       | to contain                                                                                        |
+| contenter      | to satisfy                                                                                        |
 | continuer      | to continue                                                                                       |
 | coucher        | to have sex with                                                                                  |
 | couler         | to flow                                                                                           |
@@ -88,8 +100,10 @@
 | devenir        | to become                                                                                         |
 | deviner        | to guess                                                                                          |
 | devoir         | to have to                                                                                        |
+| diminuer       | to diminish                                                                                       |
 | dire           | to say                                                                                            |
 | diriger        | to lead                                                                                           |
+| discuter       | to discuss                                                                                        |
 | disparaître    | to disappear                                                                                      |
 | disposer       | to arrange (not arranger)                                                                         |
 | distinguer     | to distinguish                                                                                    |
@@ -103,12 +117,17 @@
 | décider        | to decide                                                                                         |
 | déclarer       | to declare                                                                                        |
 | découvrir      | to discover                                                                                       |
+| décrire        | to describe                                                                                       |
+| défaire        | to undo                                                                                           |
 | défendre       | to defend                                                                                         |
+| déjeuner       | to lunch                                                                                          |
+| démolir        | to demolish                                                                                       |
 | dépasser       | to exceed                                                                                         |
 | déposer        | to deposit                                                                                        |
 | désirer        | to desire                                                                                         |
 | désobéir       | to disobey                                                                                        |
 | détruire       | to destroy                                                                                        |
+| dîner          | to dine                                                                                           |
 | effacer        | to erase                                                                                          |
 | embrasser      | to kiss                                                                                           |
 | emmener        | to take along                                                                                     |
@@ -120,7 +139,9 @@
 | enfoncer       | to break in, to push in, to drive in                                                              |
 | engager        | to hire                                                                                           |
 | enlever        | to remove                                                                                         |
+| enregistrer    | to record                                                                                         |
 | entendre       | to hear                                                                                           |
+| enterrer       | to bury                                                                                           |
 | entourer       | to surround                                                                                       |
 | entraîner      | to train, to involve                                                                              |
 | entrer         | to enter                                                                                          |
@@ -132,15 +153,20 @@
 | exiger         | to require                                                                                        |
 | exister        | to exist                                                                                          |
 | expliquer      | to explain                                                                                        |
+| exposer        | to display                                                                                        |
 | exprimer       | to express                                                                                        |
+| exécuter       | to execute                                                                                        |
 | faire          | to do                                                                                             |
 | falloir        | to have to                                                                                        |
+| fatiguer       | to tire                                                                                           |
 | fermer         | to close                                                                                          |
 | figurer        | to appear (intr) / to represent, to show, to depict (tran) / to be an extra, to do a walk-on part |
 | finir          | to finish                                                                                         |
 | fixer          | to fix                                                                                            |
+| fonder         | to found                                                                                          |
 | forcer         | to force                                                                                          |
 | former         | to form                                                                                           |
+| franchir       | to get over                                                                                       |
 | frapper        | to hit                                                                                            |
 | fuir           | to flee, to escape, to avoid                                                                      |
 | fumer          | to smoke                                                                                          |
@@ -148,8 +174,10 @@
 | garder         | to keep                                                                                           |
 | glisser        | to slide                                                                                          |
 | grandir        | to grow                                                                                           |
+| grimper        | to climb                                                                                          |
 | habiller       | to dress                                                                                          |
 | habiter        | to live in                                                                                        |
+| haïr           | to hate                                                                                           |
 | hésiter        | to hesitate                                                                                       |
 | ignorer        | to ignore                                                                                         |
 | imaginer       | to imagine                                                                                        |
@@ -161,12 +189,17 @@
 | installer      | to install                                                                                        |
 | interroger     | to question                                                                                       |
 | interrompre    | to interrupt                                                                                      |
+| introduire     | to introduce                                                                                      |
 | intéresser     | to interest                                                                                       |
 | inventer       | to invent                                                                                         |
 | inviter        | to invite                                                                                         |
 | jeter          | to throw                                                                                          |
 | jouer          | to play                                                                                           |
+| jouir          | to enjoy                                                                                          |
 | juger          | to judge                                                                                          |
+| jurer          | to swear                                                                                          |
+| lancer         | to throw                                                                                          |
+| laver          | to wash                                                                                           |
 | lever          | to raise                                                                                          |
 | lier           | to link                                                                                           |
 | lire           | to read                                                                                           |
@@ -179,11 +212,15 @@
 | marquer        | to mark                                                                                           |
 | menacer        | to threaten                                                                                       |
 | mener          | to lead                                                                                           |
+| mentir         | to lie                                                                                            |
 | mettre         | to put                                                                                            |
 | monter         | to go up                                                                                          |
 | montrer        | to show                                                                                           |
 | mourir         | to die                                                                                            |
+| mériter        | to deserve                                                                                        |
 | mêler          | to mingle                                                                                         |
+| nager          | to swim                                                                                           |
+| naviguer       | to navigate                                                                                       |
 | naître         | to be born                                                                                        |
 | nommer         | to call                                                                                           |
 | nourrir        | to feed                                                                                           |
@@ -197,6 +234,7 @@
 | oublier        | to forget                                                                                         |
 | ouvrir         | to open                                                                                           |
 | paraître       | to appear                                                                                         |
+| parcourir      | to travel all over                                                                                |
 | parler         | to speak                                                                                          |
 | partager       | to share                                                                                          |
 | partir         | to leave                                                                                          |
@@ -213,6 +251,7 @@
 | plaindre       | to pity                                                                                           |
 | plaire         | to please                                                                                         |
 | pleurer        | to mourn, to cry, to weep                                                                         |
+| pleuvoir       | to rain                                                                                           |
 | plonger        | to dive                                                                                           |
 | porter         | to wear                                                                                           |
 | poser          | to put                                                                                            |
@@ -231,6 +270,7 @@
 | proposer       | to propose                                                                                        |
 | protéger       | to protect                                                                                        |
 | prouver        | to prove                                                                                          |
+| précipiter     | to hasten                                                                                         |
 | préférer       | to prefer                                                                                         |
 | préparer       | to prepare                                                                                        |
 | présenter      | to present                                                                                        |
@@ -244,13 +284,17 @@
 | ramasser       | to pick up                                                                                        |
 | rappeler       | to call back                                                                                      |
 | rapporter      | to bring back, to bring                                                                           |
+| rassurer       | to reassure                                                                                       |
 | recevoir       | to receive                                                                                        |
 | recommencer    | to start again                                                                                    |
 | reconnaître    | to recognize                                                                                      |
 | reconstruire   | to rebuild                                                                                        |
 | reculer        | to move back                                                                                      |
+| refaire        | to redo                                                                                           |
 | refuser        | to refuse                                                                                         |
 | regarder       | to look                                                                                           |
+| regretter      | to regret                                                                                         |
+| rejeter        | to reject                                                                                         |
 | rejoindre      | to meet (up with), to join, to catch up with                                                      |
 | remarquer      | to notice                                                                                         |
 | remercier      | to thank                                                                                          |
@@ -260,7 +304,10 @@
 | remplir        | to fill                                                                                           |
 | rencontrer     | to meet                                                                                           |
 | rendre         | to return                                                                                         |
+| renoncer       | to give up                                                                                        |
+| renverser      | to knock down                                                                                     |
 | reposer        | to rest                                                                                           |
+| repousser      | to push away                                                                                      |
 | reprendre      | to resume                                                                                         |
 | représenter    | to represent                                                                                      |
 | respecter      | to respect                                                                                        |
@@ -269,12 +316,14 @@
 | rester         | to stay                                                                                           |
 | retenir        | to retain                                                                                         |
 | retirer        | to remove, to take off                                                                            |
+| retomber       | to fall again                                                                                     |
 | retourner      | to return                                                                                         |
 | retrouver      | to find (again)                                                                                   |
 | revenir        | to come back                                                                                      |
 | revoir         | to see again                                                                                      |
 | rire           | to laugh                                                                                          |
 | risquer        | to risk                                                                                           |
+| rompre         | to break                                                                                          |
 | rouler         | to roll                                                                                           |
 | réclamer       | to ask for                                                                                        |
 | réduire        | to reduce                                                                                         |
@@ -295,6 +344,7 @@
 | sauter         | to jump                                                                                           |
 | sauver         | to rescue                                                                                         |
 | savoir         | to know                                                                                           |
+| se fâcher      | to get angry                                                                                      |
 | se marier      | to get married                                                                                    |
 | se réveiller   | to wake up                                                                                        |
 | se souvenir    | to remember                                                                                       |
@@ -315,6 +365,7 @@
 | sourire        | to smile                                                                                          |
 | soutenir       | to sustain                                                                                        |
 | subir          | to undergo                                                                                        |
+| suggérer       | to suggest                                                                                        |
 | suivre         | to follow                                                                                         |
 | supporter      | to support                                                                                        |
 | supposer       | to suppose                                                                                        |
@@ -327,7 +378,9 @@
 | tomber         | to fall                                                                                           |
 | toucher        | to touch                                                                                          |
 | tourner        | to turn                                                                                           |
+| trahir         | to betray                                                                                         |
 | traiter        | to treat                                                                                          |
+| transformer    | to transform                                                                                      |
 | travailler     | to work                                                                                           |
 | traverser      | to cross                                                                                          |
 | trembler       | to shiver                                                                                         |
@@ -335,7 +388,10 @@
 | trouver        | to find                                                                                           |
 | tuer           | to kill                                                                                           |
 | user           | to wear out                                                                                       |
+| utiliser       | to use                                                                                            |
+| vaincre        | to defeat                                                                                         |
 | valoir         | to be worth                                                                                       |
+| veiller        | to watch over                                                                                     |
 | vendre         | to sell                                                                                           |
 | venir          | to come                                                                                           |
 | verser         | to pour                                                                                           |
@@ -343,6 +399,8 @@
 | voir           | to see                                                                                            |
 | voler          | to steal                                                                                          |
 | vouloir        | to want                                                                                           |
+| voyager        | to travel                                                                                         |
+| vérifier       | to check                                                                                          |
 | vêtir          | to clothe                                                                                         |
 | échapper       | to escape                                                                                         |
 | éclairer       | to light up, to clarify, to enlighten                                                             |
@@ -351,12 +409,14 @@
 | écraser        | to crush                                                                                          |
 | écrire         | to write                                                                                          |
 | élever         | to raise                                                                                          |
+| élire          | to elect                                                                                          |
 | éloigner       | to move away                                                                                      |
 | éprouver       | to feel                                                                                           |
 | établir        | to establish                                                                                      |
 | éteindre       | to put out                                                                                        |
 | étendre        | to stretch                                                                                        |
 | étonner        | to astonish                                                                                       |
+| étouffer       | to suffocate                                                                                      |
 | étudier        | to study                                                                                          |
 | éviter         | to avoid                                                                                          |
 | être           | to be                                                                                             |
