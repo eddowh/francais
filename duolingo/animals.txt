@@ -1,0 +1,30 @@
+l'abeille (f) == bee
+l'animal == animal
+l'araignée (f) == spider
+l'insecte (m) == insect
+l'oiseau (m) == bird
+l'ours (m) == bear
+l'éléphant (m) == elephant
+la baleine == whale
+la chatte == female cat
+la chienne == female dog
+la fourmi == ant
+la mouche == fly (insect)
+la poule == hen, chicken
+la souris == mouse
+la tortue == tortoise/turtle
+la vache == cow
+le canard == duck
+le cheval == horse
+le chien == dog
+le cochon == pig
+le dauphin == dolphin
+le lapin == rabbit
+le lion == lion
+le loup == wolf
+le papillon == butterfly
+le requin == shark
+le serpent == snake
+le singe == monkey, ape
+le tigre == tiger
+le zoo == zoo

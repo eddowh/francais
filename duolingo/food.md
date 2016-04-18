@@ -1,0 +1,51 @@
+| **Français**   | **English**                |
+|:---------------|:---------------------------|
+| La banane      | banana                     |
+| Le citron      | lemon                      |
+| avec           | with                       |
+| boire          | to drink                   |
+| ils boivent    | they drink (m)             |
+| l'alcool (m)   | alcohol                    |
+| l'eau (f)      | water                      |
+| l'huile (f)    | oil (cooking or lubricant) |
+| l'oeuf (m)     | egg                        |
+| l'oignon (m)   | onion                      |
+| la baguette    | baguette                   |
+| la bière       | beer                       |
+| la boisson     | drink                      |
+| la carotte     | carrot                     |
+| la confiture   | jam                        |
+| la crêpe       | crepe                      |
+| la cuisine     | kitchen                    |
+| la fraise      | strawberry                 |
+| la salade      | salad                      |
+| la sauce       | sauce, dressing            |
+| la soupe       | soup                       |
+| la tomate      | tomato                     |
+| la viande      | meat                       |
+| le beurre      | butter                     |
+| le boeuf       | beef                       |
+| le bonbon      | candy                      |
+| le café        | coffee                     |
+| le chocolat    | chocolate                  |
+| le fromage     | cheese                     |
+| le gâteau      | cake                       |
+| le haricot     | bean                       |
+| le jus         | juice                      |
+| le lait        | milk                       |
+| le pain        | bread                      |
+| le poisson     | fish                       |
+| le poivre      | pepper                     |
+| le porc        | pork                       |
+| le poulet      | chicken                    |
+| le raisin      | grapes                     |
+| le repas       | meal                       |
+| le riz         | rice                       |
+| le sandwich    | sandwich                   |
+| le sel         | salt                       |
+| le sucre       | sugar                      |
+| le thé         | tea                        |
+| le vin         | wine                       |
+| les pâtes      | pasta                      |
+| manger         | to eat                     |
+| tu bois        | You drink (i)              |

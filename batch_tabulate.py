@@ -53,7 +53,7 @@ def main():
             tabulate_cat_exec.close()
 
         # nested folder with subsections
-        if '/' in folder:
+        if os.path.exists(os.path.join(folder, AGGREGATE_SCRIPT)):
             command = "python {script}".format(
                 script=os.path.join(folder, AGGREGATE_SCRIPT)
             )

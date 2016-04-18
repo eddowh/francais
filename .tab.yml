@@ -1,10 +1,14 @@
+duolingo:
+    categorize: null
+    exclude: null
+
 lingvist:
     categorize: [fr]
     exclude: null
 
 memrise:
     categorize: null
-    exclude: null 
+    exclude: null
 
 memrise/common-fr-phrases:
     categorize: null
@@ -17,4 +21,3 @@ memrise/hacking-fr:
 memrise/minimum-viable-fr:
     categorize: null
     exclude: null
-

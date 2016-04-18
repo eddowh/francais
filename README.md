@@ -1,5 +1,7 @@
 # Table of Contents
 
+## [Duolingo](./duolingo/duolingo.md)
+
 ## Memrise
 
 - [Common French Phrases](./memrise/common-fr-phrases/common-fr-phrases.md)
