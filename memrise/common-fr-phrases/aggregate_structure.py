@@ -27,6 +27,10 @@ LEVELS = (
         "title": "Short",
         "filename": "short",
     },
+    {
+        "title": "Grammar",
+        "filename": "grammar",
+    },
 )
 
 
