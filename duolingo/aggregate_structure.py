@@ -39,6 +39,46 @@ LEVELS = (
         "title": "Plurals",
         "filename": "levels/plurals",
     },
+    {
+        "title": "Être/Avoir",
+        "filename": "levels/etre-avoir",
+    },
+    {
+        "title": "C'est vs Il est",
+        "filename": "levels/cest_vs_il-est",
+    },
+    {
+        "title": "Clothing",
+        "filename": "levels/clothing",
+    },
+    {
+        "title": "Possessives",
+        "filename": "levels/possessives",
+    },
+    {
+        "title": "Colors",
+        "filename": "levels/colors",
+    },
+    {
+        "title": "Verbs (Present)",
+        "filename": "levels/verbs_present",
+    },
+    {
+        "title": "Demonstratives",
+        "filename": "levels/demonstratives",
+    },
+    {
+        "title": "Conjunctions",
+        "filename": "levels/conjunctions",
+    },
+    {
+        "title": "Questions",
+        "filename": "levels/questions",
+    },
+    {
+        "title": "Prepositions",
+        "filename": "levels/prepositions",
+    },
 )
 
 

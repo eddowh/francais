@@ -1,22 +1,64 @@
+africain == African
+bas == low
 blond == blond
 bon == good
+bête == stupid, silly
 chaud == hot
+chinois == Chinese
+clair == light, bright, clear
+dernier == last, top, latest
+dernière == last, top, latest (f)
+différent == different
+douce == smooth, gentle, mild, soft (f)
+doux == smooth, gentle, mild, soft
+dur == hard
+européen == European
+européenne == European (f)
 facile == easy
+faible == weak
+folle == crazy (f)
 fort == strong
+fou == crazy
+franc == frank, straight, candid
+français == French
 froid == cold
+gentil == nice, kind, good, gentle (starts with G)
+gentille == nice, kind, good, gentle (starts with G) (f)
 grand == tall
+grave == serious, grave, solemn
 gros == fat
+génial == brilliant
+japonais == Japanese
 jeune == young
 joli == pretty
+laid == ugly
+large == broad, wide, loose
 liquide == liquid
+long == long
 lourd == heavy
 léger == light (adj, weight)
 mauvais == bad
+mort == dead
+moyen == average (adj)
+méchant == mean
+naturel == natural
+nombreux == numerous
 nouveau == new
 nouvelle == new (f)
+nu == naked, bare, unadorned
+nul == useless, hopeless, rubbish
 parfait == perfect
 petit == small
 propre == clean
+prêt == ready
+pur == pure
 rond == round
 sale == dirty
+sec == dry
+sensible == sensitive
 seul == alone, lonely, only
+simple == simple, straightforward, plain
+sympa == nice, friendly, pleasant (starts with S, 5 letters)
+sérieux == serious
+vrai == true, real, genuine
+énorme == enormous

@@ -1,0 +1,14 @@
+combien == how much / how many
+comment == how
+laquelle == which one (f)
+lequel == which one (m)
+lesquelles == which ones (f)
+lesquels == which ones (m)
+où == where
+pourquoi == why?
+quand == when
+que... ==  what...
+quel == which (m)
+quelle == which (f)
+qui == who
+quoi == what
