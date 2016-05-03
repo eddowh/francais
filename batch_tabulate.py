@@ -15,7 +15,10 @@ CONFIG = yaml.load(open(CONFIG_FILE).read())
 def main():
     for folder in CONFIG:
 
-        all_files = glob(os.path.join(folder, '*.txt'))
+        all_files = (
+            glob(os.path.join(folder, '*.txt')) or
+            glob(os.path.join(folder, 'levels', '*.txt'))
+        )
 
         to_be_categorized = CONFIG[folder]['categorize']
         if to_be_categorized:
